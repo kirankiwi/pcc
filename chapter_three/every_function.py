@@ -21,7 +21,6 @@ print(airlines)
 print('Jetstar will now be deleted! HAHAHAHAAAAA!!!')
 del airlines[5]
 print(airlines)
-print('\tMWAHAHAHAAA')
 popped_airline = airlines.pop(3)
 print("I just popped qantas from the list.")
 print(airlines)
