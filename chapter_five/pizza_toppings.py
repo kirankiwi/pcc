@@ -3,7 +3,8 @@ import time
 available_toppings = ["Pizza sauce", "Mushroom", "Cheese", "Olives", "Zucchini", "Capsicu"
 "m", "Pineapple", "Onion", "Peperoni"]
 
-pizza_toppings = []
+pizza_toppings = ["Pizza sauce", "Mushroom", "Blueberries", "Cheese", "Olives", "Capsicum"
+                  , "Potato", "Onion"]
 
 print("\n")
 
