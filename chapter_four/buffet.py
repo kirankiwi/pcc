@@ -1,4 +1,5 @@
 buffet = ("Pasta", "Pizza", "Toast", "Scrambled eggs", "Orange juice")
+
 print("\n")
 for food in buffet:
     print(food)
