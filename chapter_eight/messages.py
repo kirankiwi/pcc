@@ -32,6 +32,7 @@ def print_messages(list):
         print(list[0])
         sent_messages.append(list.pop(0))
 
+
 print_messages(unsent_messages[:])
 print(unsent_messages)
 print(sent_messages)

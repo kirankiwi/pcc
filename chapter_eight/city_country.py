@@ -1,6 +1,7 @@
 def country_city(city, country):
     return f"{city}, {country}"
 
+
 cities = {
     "Christchurch": "New Zealand",
     "Boulder": "USA",
